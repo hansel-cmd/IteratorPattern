@@ -1,6 +1,4 @@
-package com.company;
-
-import com.sun.jndi.ldap.Ber;
+package classic_approach;
 
 import java.util.ArrayList;
 
@@ -16,8 +14,6 @@ public class Main {
         BerseriaInventory berseriaInventory = new BerseriaInventory();
         ArrayList<InventoryItem> berseriaInventoryItems = berseriaInventory.getInventoryItem();
         print(berseriaInventoryItems);
-
-
     }
 
     public static void print(InventoryItem[] inventoryItems, int numberOfItems) {

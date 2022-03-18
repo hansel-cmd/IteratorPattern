@@ -1,4 +1,4 @@
-package com.company;
+package classic_approach;
 
 public class ZestiriaInventory {
 

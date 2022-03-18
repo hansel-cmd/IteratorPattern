@@ -1,4 +1,4 @@
-package com.company;
+package classic_approach;
 
 import java.util.ArrayList;
 

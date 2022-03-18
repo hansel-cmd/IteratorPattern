@@ -1,7 +1,7 @@
-package com.company;
+package classic_approach;
 
 public class InventoryItem {
-    
+
     private String name;
     private String description;
     private RarityLevel rarity;
